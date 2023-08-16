@@ -6,10 +6,13 @@ This document lists place you can get help with or discuss about Svelte Vietnam.
 
 See guidelines and documentation starting with these top-level resources:
 
-- [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md),
-- [CONTRIBUTING](./CONTRIBUTING.md),
-- [LICENSE](./LICENSE),
-- [SECURITY](./SECURITY.md).
+- For all projects under the **Svelte Vietnam** github organization:
+  - [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md),
+  - [SECURITY](./SECURITY.md).
+- For *sveltevietnam.dev* specifically:
+  - [CONTRIBUTING](https://github.com/sveltevietnam/sveltevietnam.dev/blob/main/CONTRIBUTING.md),
+  - [LICENSE](https://github.com/sveltevietnam/sveltevietnam.dev/blob/main/LICENSE),
+  - [Branding Guidelines](https://github.com/sveltevietnam/branding).
 
 ## [Svelte Vietnam Discord]
 
