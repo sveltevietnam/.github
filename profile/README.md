@@ -11,7 +11,9 @@ Welcome to Svelte Vietnam.
 
 [![Discord][sveltevietnam.discord.badge]][sveltevietnam.discord] [![Twitter][sveltevietnam.twitter.badge]][sveltevietnam.twitter] [![Facebook][sveltevietnam.facebook.badge]][sveltevietnam.facebook]
 
-This is where we host the source code for our official website [sveltevietnam.dev], open source projects for collaboration, and other resources.
+[![MadeWithSvelte.com shield][socials.madewithsvelte.badge]][socials.madewithsvelte]
+
+This is where we host the source code for our official community website [sveltevietnam.dev], open source projects, and other resources.
 
 <br />
 <br />
@@ -20,9 +22,9 @@ This is where we host the source code for our official website [sveltevietnam.de
 <br />
 <br />
 
-At this time, we are still in the process of building a Svelte community in Vietnam. If you are interested, please join our [Discord server](sveltevietnam.discord).
+For source code of the [sveltevietnam.dev] site, visit [github/sveltevietnam/sveltevietnam.dev][sveltevietnam.dev repo].
 
-The official site is also being built. Visit the [sveltevietnam.dev repo] for more information.
+Have a chat with our community members at our official [Discord server](sveltevietnam.discord).
 
 [sveltevietnam.discord.badge]: https://img.shields.io/discord/1066621936546877450?color=7289da&label=Discord&logo=discord&style=for-the-badge
 [sveltevietnam.discord]: https://discord.gg/Rtv2xwhz7d
@@ -32,3 +34,5 @@ The official site is also being built. Visit the [sveltevietnam.dev repo] for mo
 [sveltevietnam.twitter.badge]: https://img.shields.io/static/v1?label=&message=sveltevietnam&color=1DA1F2&logoColor=white&style=for-the-badge&logo=twitter
 [sveltevietnam.dev]: https://sveltevietnam.dev
 [sveltevietnam.dev repo]: https://github.com/sveltevietnam/sveltevietnam.dev
+[socials.madewithsvelte]: https://madewithsvelte.com/p/svelte-vietnam/shield-link
+[socials.madewithsvelte.badge]: https://madewithsvelte.com/storage/repo-shields/4786-shield.svg
